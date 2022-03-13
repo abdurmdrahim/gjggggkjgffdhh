@@ -1,0 +1,182 @@
+**{margin:0;padding:0;
+    box-sizing:border-box;
+    font-family: 'Work Sans', sans-serif  ;}
+
+.container{width:90%;
+margin:auto;text-align: center;}
+
+
+/* header -part */
+header{
+  background: url(./img/bgc.png) no-repeat ;
+  float: left;
+  width: 100%;
+  margin-bottom: -150px;
+}
+
+.main-header{width:100%;float:left;}
+.logo-part{width:50%;float:left;}
+.manu-part{width:505;float:left;}
+
+.manu-part ul{padding: 0px;
+  margin: -6px;}
+.manu-part li{list-style: none;display:inline-block;
+margin:10px ;}
+.manu-part a{text-decoration: none;font-weight: 700;
+font-size:medium;text-align: end;padding:10px;}
+.manu-part ul a:hover{background-color: crimson;}
+
+
+/* Hero-part */
+.hero{float:left;width:100%;}
+.hero h1{}
+.hero p{}
+.hero a button{color:red}
+.hero img{width:200px;display:inline-block;}
+
+
+/* FEATUER PART */
+#feature{width:100%;float:left;
+background: url(./img/bgc2.jpg) no-repeat;
+background-size:cover;
+padding:200px 0px 50px;
+background-color: rgb(65, 6, 6);
+}
+
+.feature-img-part{width:30%;;float:left;}
+.feature-box-part{width:70%;float:left;position:relative;}
+.feature-box{width:100%;float:left; margin:5px;}
+.feature-1{width:25%;float:left;
+    width: 25%;
+    float: left;
+    box-shadow: 0px 0px 5px;
+    padding: 10px;
+    margin: 10px; position: absolute;
+    left: 284px;
+    top: 80px;
+  }
+.feature-2{width:25%;float:left;
+    width: 25%;
+    float: left;
+    box-shadow: 0px 0px 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+.feature-3{width:25%;float:left;  width: 25%;
+    float: left;
+    box-shadow: 0px 0px 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+.feature-4{width:25%;float:left;  width: 25%;
+    float: left;
+    box-shadow: 0px 0px 5px;
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+left: 282px;
+top: 358px;
+  }
+  
+
+
+
+
+
+
+/* MARKETING PART */
+
+.marketing{width:100%;float:left;}
+
+.bangladesh{width:50%;float:left;}
+.india{width:50%;float:left;}
+
+.icon{margin:20px 10px;
+  padding:10px;box-shadow:10px 15px white;
+    box-shadow: 10px;}
+
+  .icon:hover{background-color:aqua;color:white;}
+
+
+
+  span{margin:0 10px;}
+  button{background-color: aqua;padding:15px;
+    background-color: aqua;
+    padding: 10px;
+    height: 47px;
+    border-radius: 7px;
+    width: 167px;
+    }
+    button:hover{background-color: brown;color:white}
+
+
+.vector{width:100%;float:left;}
+.vector-1{width:50%;float:left;}
+.vector-2{width:50%;float:left;}
+
+
+input{margin: 10px -4px;}
+
+p{font-size: small;}
+
+
+/* URENAS PART */
+
+.urenas{background: url('./img/bgc.png') no-repeat ;
+  width:100%;float:left;margin:31px;position:relative;}
+.urenas-1{width:70%;float:left;  width: 70%;
+  float: left;
+  margin-left: -299px;
+  margin-top: 46px;
+}
+.urenas-2{width:30%;float:left;  width: 30%;
+  float: left;
+  margin-top: 58px;
+  margin-left: -135px;
+}
+
+.bib{position: absolute;left:0;right:0;bottom:0%
+;margin:auto;}
+
+
+.table{padding:10;text-align:center; }
+.tr{padding:10}
+.th{padding:10}
+
+
+
+
+/* FooterPart */
+.footer{margin:10px;}
+table{margin: 3px auto;
+  padding: 14px; }
+.get{margin: 12px;}
+table th{padding:10px}
+table tr{padding:10Px;}
+table td{padding:10Px;}
+.get input{width:300px;}
+.get input{background-color: chartreuse;}
+.get button:hover{background-color: black;color:white;}
+
+
+
+
+/* FOOTER PART LAST */
+ .footer{width:100%;float:left;background: url(./img/footer.jpg) no-repeat;width:100%;float:left;}
+ .privacy{width:50%;float:left;width: 30%;
+  float: left;
+  padding: 5px 0px;
+  color: white;
+  }
+ .social {  width: 50%;
+  float: left;
+  padding: 7px;
+  margin: -2px;
+  color:white;
+  text-align: end;display:inline;
+}
+.fa-brands{padding:10px;}
+.social a:hover{ cursor: pointer;background-color:darkcyan;}
+.social a{color:white;}
+
+
